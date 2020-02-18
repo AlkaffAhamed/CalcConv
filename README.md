@@ -35,7 +35,6 @@ This is the module that logs the history of all calculations done by all other m
 There were additional plans to improve this software. The following are the possible improvements: 
 
 1. Addition of Trigonometric Functions 
-2. Drawing of quadratic graph shapes using terminal 
-3. Support for more units in Unit Converter module
-
-
+2. Upgrading Basic module to a more calculator-like format
+3. Drawing of quadratic graph shapes using terminal 
+4. Support for more units in Unit Converter module
