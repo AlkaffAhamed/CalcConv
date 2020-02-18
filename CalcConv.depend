@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1476261693 source:d:\srm - it year 2\oops lab\mini project\calcconv\calcconv.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<ctime>
+	"modBasic2.h"
+	"modQuad.h"
+	"modUnit.h"
+	"modLogger.h"
+
+1475644899 d:\srm - it year 2\oops lab\mini project\calcconv\headcalcconv.h
+	<iostream>
+	<cmath>
+
+1475686499 d:\srm - it year 2\oops lab\mini project\calcconv\headlogger.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<ctime>
+
+1475687148 d:\srm - it year 2\oops lab\mini project\calcconv\basicunitmodule.h
+	<iostream>
+	<cmath>
+
+1475686907 d:\srm - it year 2\oops lab\mini project\calcconv\loggermodule.h
+	<iostream>
+	<cmath>
+	<fstream>
+	<ctime>
+
+1476191826 d:\srm - it year 2\oops lab\mini project\calcconv\modbasic2.h
+	<iostream>
+	<cmath>
+	"modLogger.h"
+
+1476261693 d:\srm - it year 2\oops lab\mini project\calcconv\modlogger.h
+	<iostream>
+	<cmath>
+	<cstring>
+	<fstream>
+	<ctime>
+
+1476199276 d:\srm - it year 2\oops lab\mini project\calcconv\modquad.h
+	<iostream>
+	<cmath>
+	"modLogger.h"
+
+1476261930 d:\srm - it year 2\oops lab\mini project\calcconv\modunit.h
+	<iostream>
+	<cmath>
+	<cstring>
+	"modLogger.h"
+
