@@ -16,11 +16,12 @@ This module does the basic arithmetic operations - Addition, Subtraction, Multip
 
 ### Quadratic Equation Solver 
 
-This module solves Quadratic Equations. It gets the input from the users for the Quadratic Equation of the form $ax^2 + bx + c = 0$. Using the Quadratic Formula, it is also able to solve the case for complex roots. 
+This module solves Quadratic Equations. It gets the input from the users for the Quadratic Equation of the form <a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;bx&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?ax^{2}&space;&plus;&space;bx&space;&plus;&space;c&space;=&space;0" title="ax^{2} + bx + c = 0" /></a>.
+Using the Quadratic Formula, it is also able to solve the case for complex roots. 
 
 Quadratic Formula: 
 
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
+<a href="https://www.codecogs.com/eqnedit.php?latex=x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
 
 ### Unit Converter 
 
